@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# These are just extras to help clean notebook stuff and Mac system files.
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+
